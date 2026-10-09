@@ -1,0 +1,7 @@
+Air Quality Analysis and Pollution Prediction Results
+======================================================
+Target Column: CO(GT)
+Train Rows: 6139 | Test Rows: 1535
+MAE:  0.3661 mg/m³
+RMSE: 0.5452 mg/m³
+R2:   0.8356
